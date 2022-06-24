@@ -9,7 +9,6 @@ lightgbm==3.3.2
 statsmodels==0.13.1
 holidays==0.13
 SQLAlchemy==1.4.29
-snowflake==2.6.2
 pyxlsb==1.0.9
 datetime
 dateutil==2.8.2
