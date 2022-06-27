@@ -12,4 +12,4 @@ SQLAlchemy==1.4.29
 pyxlsb==1.0.9
 python-dateutil==2.7.3
 streamlit==1.5.0
-
+protobuf==3.0
